@@ -1,0 +1,15 @@
+翡翠台（廣電 IPv6）,http://iptv.hiper25.com:58080/TVB/index.m3u8
+明珠台（廣電 IPv6）,http://iptv.hiper25.com:58080/Pearl/index.m3u8
+澳門澳視（廣電 IPv6）,http://iptv.hiper25.com:58080/TDM/index.m3u8
+廣東衛視（廣電 IPv6）,http://iptv.hiper25.com:58080/gdws/index.m3u8
+廣東珠江（廣電 IPv6）,http://iptv.hiper25.com:58080/gdzj/index.m3u8
+廣東體育（廣電 IPv6）,http://iptv.hiper25.com:58080/gdty/index.m3u8
+廣東新聞（廣電 IPv6）,http://iptv.hiper25.com:58080/gdxw/index.m3u8
+廣東民生（廣電 IPv6）,http://iptv.hiper25.com:58080/gdms/index.m3u8
+廣東經濟科教（廣電 IPv6）,http://iptv.hiper25.com:58080/gdjjkj/index.m3u8
+大灣區衛視（廣電 IPv6）,http://iptv.hiper25.com:58080/dwqws/index.m3u8
+廣東影視（廣電 IPv6）,http://iptv.hiper25.com:58080/gdys/index.m3u8
+岭南戏曲（廣電 IPv6）,http://iptv.hiper25.com:58080/lnxq/index.m3u8
+廣州綜合（廣電 IPv6）,http://iptv.hiper25.com:58080/gzzh/index.m3u8
+廣州新聞（廣電 IPv6）,http://iptv.hiper25.com:58080/gzxw/index.m3u8
+CCTV-4K（廣電 IPv6）,http://iptv.hiper25.com:58080/CCTV-4K/index.m3u8
