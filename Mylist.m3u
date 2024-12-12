@@ -6,7 +6,7 @@ P2p://generationnexxxt.com:19806/cf7073fbb4c5490a86aca002247700f9
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="广东",广东卫视
 http://183.54.208.160:9999/udp/239.77.1.19:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
-http://113.85.94.62:4022/udp/239.77.0.114:5146
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
 http://222.84.192.120:8181/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
@@ -28,7 +28,7 @@ http://php.jdshipin.com:8880/chudian.php?id=gdzj
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
 https://stream1.freetv.fun/6cbe6201538648073590e2b4546c4189348750ae6a866d1c6ac72caa6c8b8427.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
-http://14.19.142.188:8089/hls/8/index.m3u8
+http://tvbox6.icu/tv/migu.php?id=dwqws
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
 http://222.84.192.120:8181/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
@@ -82,7 +82,7 @@ http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",翡翠台
-https://stream1.freetv.fun/a72081106d30e39c00e3a194f915610929efac5afde0a72d2cbc6d1f23e0809f.ctv
+https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="港台电视31" tvg-logo="https://live.fanmingming.com/tv/港台电视31.png" group-title="港澳台",港台电视31
 P2p://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 #EXTINF:-1 tvg-name="港台电视32" tvg-logo="https://live.fanmingming.com/tv/港台电视32.png" group-title="港澳台",港台电视32
@@ -93,6 +93,8 @@ P2p://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="港澳台",J2
 http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
+#EXTINF:-1 tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="港澳台",J2
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台",无线新闻台
 P2p://147.135.39.171:9906/65ab4a55000e0bf85fdf91767a57713b
 #EXTINF:-1 tvg-name="无线财经体育资讯台" tvg-logo="https://live.fanmingming.com/tv/无线财经体育资讯台.png" group-title="港澳台",无线财经体育资讯台
