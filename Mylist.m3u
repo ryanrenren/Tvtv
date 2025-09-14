@@ -7,20 +7,6 @@ P2p://generationnexxxt.com:19806/cf7073fbb4c5490a86aca002247700f9
 http://183.54.208.160:9999/udp/239.77.1.19:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
-http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
-http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
-http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
-http://219.159.194.13:8181/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
-http://tenfarr.com:4000/udp/239.77.1.94:5146
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
-http://120.197.112.28:8800/hls/33/index.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
-http://php.jdshipin.com:8880/chudian.php?id=gdzj
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
 http://tvbox6.icu/tv/migu.php?id=dwqws
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
@@ -185,50 +171,8 @@ mitv://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a
 mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳台",明珠台
 mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
-#EXTINF:-1 tvg-name="香港国际财经台" tvg-logo="https://live.fanmingming.com/tv/香港国际财经台.png" group-title="港澳台",香港国际财经台
-mitv://generationnexxxt.com:19806/6aa47af091b54d618d1513b1bc23b0b9
 #EXTINF:-1 tvg-name="18台" tvg-logo="https://live.fanmingming.com/tv/18台.png" group-title="港澳台",18台
 mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
-#EXTINF:-1 tvg-name="now财经台" tvg-logo="https://live.fanmingming.com/tv/now财经台.png" group-title="港澳台",now财经台
-mitv://generationnexxxt.com:19806/88f95058c046453a973e2540701ccb4e
-#EXTINF:-1 tvg-name="美亚电影台(粤语)" tvg-logo="https://live.fanmingming.com/tv/美亚电影台(粤语).png" group-title="港澳台",美亚电影台(粤语)
-mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
-#EXTINF:-1 tvg-name="Hands Up" tvg-logo="https://live.fanmingming.com/tv/Hands Up.png" group-title="港澳台",Hands Up
-mitv://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
-#EXTINF:-1 tvg-name="粤语片台" tvg-logo="https://live.fanmingming.com/tv/粤语片台.png" group-title="港澳台",粤语片台
-mitv://generationnexxxt.com:19806/3a44c9c92439443494b8ecff6fdb2336
-#EXTINF:-1 tvg-name="亚洲剧台" tvg-logo="https://live.fanmingming.com/tv/亚洲剧台.png" group-title="港澳台",亚洲剧台
-mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
-#EXTINF:-1 tvg-name="功夫台" tvg-logo="https://live.fanmingming.com/tv/功夫台.png" group-title="港澳台",功夫台
-mitv://generationnexxxt.com:19806/ef6373344abf4bedae4d49ac953c1742
-#EXTINF:-1 tvg-name="HOY资讯台" tvg-logo="https://live.fanmingming.com/tv/HOY资讯台.png" group-title="港澳台",HOY资讯台
-mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
-#EXTINF:-1 tvg-name="黄金翡翠台" tvg-logo="https://live.fanmingming.com/tv/黄金翡翠台.png" group-title="港澳台",黄金翡翠台
-mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="港澳台",民视
-mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="港澳台",台视
-mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
-#EXTINF:-1 tvg-name="大爱" tvg-logo="https://live.fanmingming.com/tv/大爱.png" group-title="港澳台",大爱
-mitv://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="港澳台",中视
-mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
-#EXTINF:-1 tvg-name="霹雳台湾台" tvg-logo="https://live.fanmingming.com/tv/霹雳台湾台.png" group-title="港澳台",霹雳台湾台
-mitv://generationnexxxt.com:19806/dcdf778fe9ca4184ad6af3a911765cf0
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="港澳台",华视
-mitv://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
-#EXTINF:-1 tvg-name="公视" tvg-logo="https://live.fanmingming.com/tv/公视.png" group-title="港澳台",公视
-mitv://generationnexxxt.com:19806/5bc9388122b840f1abd2ff73c85049a6
-#EXTINF:-1 tvg-name="好消息" tvg-logo="https://live.fanmingming.com/tv/好消息.png" group-title="港澳台",好消息
-mitv://generationnexxxt.com:19806/febf2282369d409d92d68514b72fc433
-#EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://live.fanmingming.com/tv/国家地理频道.png" group-title="港澳台",国家地理频道
-mitv://generationnexxxt.com:19806/37a44d0af7634364a91f2fb8d9b9cf9b
-#EXTINF:-1 tvg-name="探索频道" tvg-logo="https://live.fanmingming.com/tv/探索频道.png" group-title="港澳台",探索频道
-mitv://generationnexxxt.com:19806/9f2e92df32b34a569ad7e6818f4732fb
-#EXTINF:-1 tvg-name="TLC旅游生活" tvg-logo="https://live.fanmingming.com/tv/TLC旅游生活.png" group-title="港澳台",TLC旅游生活
-mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec03679804
-#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://live.fanmingming.com/tv/动物星球.png" group-title="港澳台",动物星球
-mitv://generationnexxxt.com:19806/5b41e724ea8e4e7eb92e3dac95589165
 #EXTINF:-1 tvg-name="CN卡通频道" tvg-logo="https://live.fanmingming.com/tv/CN卡通频道.png" group-title="港澳台",CN卡通频道
 mitv://generationnexxxt.com:19806/f4dd909eedc64e6b9736e248aedf6d61
 #EXTINF:-1 tvg-name="MOMO亲子台" tvg-logo="https://live.fanmingming.com/tv/MOMO亲子台.png" group-title="港澳台",MOMO亲子台
@@ -318,7 +262,7 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225760/inde
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+http://ygbh.site/php/bfgd.php?id=086
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
@@ -420,7 +364,7 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/inde
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+http://ygbh.site/php/bfgd.php?id=488
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2财经
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3综艺
