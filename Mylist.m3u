@@ -54,7 +54,7 @@ http://php.jdshipin.com:8880/chudian.php?id=gdgj
 #EXTINF:-1 tvg-name="广东综艺4K" tvg-logo="https://live.fanmingming.com/tv/广东综艺4K.png" group-title="广东",广东综艺4K
 http://php.jdshipin.com:8880/chudian.php?id=gdzy
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东",广州综合
-http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+http://113.102.83.97:4022/udp/239.253.43.71:5146
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东",广州新闻
 http://php.jdshipin.com:8880/gztv.php?id=xinwen
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png" group-title="广东",广州竞赛
